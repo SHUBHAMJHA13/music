@@ -1,0 +1,202 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-image: url(main.jpg);
+    background-size: cover; */
+}
+
+.nav-bar {
+    height: 30px;
+    background-color: rgb(240, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(main.jpg);
+    background-size: cover;
+
+}
+
+.nav-bar a {
+    margin: 15px;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+}
+
+.main {
+    height: 800px;
+    width: 1230px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(main.jpg);
+    background-size: cover;
+}
+
+.name {
+    height: 100px;
+    width: 400px;
+    font-size: 20px;
+    text-transform: capitalize;
+    /* background-color: yellow;  */
+    word-spacing: 5px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 400px;
+}
+
+.line {
+    height: 30px;
+    width: 400px;
+    /* background-color: blue; */
+    color: wheat;
+    position: relative;
+    top: 60px;
+    right: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 20px;
+}
+
+.mid-section {
+    height: 150px;
+    width: 1230px;
+    display: flex;
+    align-items: center;
+
+}
+
+.block1 {
+    height: 60px;
+    width: 615px;
+    /* background-color: blue; */
+    color: rgb(0, 0, 0);
+    padding: 0px 0px 15px 20px;
+
+}
+
+.block2 {
+    height: 60px;
+    width: 615px;
+    color: rgb(0, 0, 0);
+    /* background-color: rgb(246, 0, 0); */
+}
+
+.details {
+    height: 300px;
+    width: 1230px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    /* padding: 20px; */
+}
+
+.box1 {
+    height: 80px;
+    width: 80px;
+    margin-top: 40px;
+    background-image: url(guiter.jpg);
+    background-size: cover;
+    border-radius: 20px;
+}
+
+.box2 {
+    height: 80px;
+    width: 80px;
+    margin-bottom: 40px;
+    border-radius: 20px;
+    background-image: url(headphone.jpg);
+    background-size: cover;
+}
+
+.box3 {
+    height: 80px;
+    width: 80px;
+    margin-top: 40px;
+    border-radius: 20px;
+    background-image: url(wall.jpg);
+    background-size: cover;
+
+}
+
+.box4 {
+    height: 80px;
+    width: 80px;
+    margin-bottom: 40px;
+    border-radius: 20px;
+    background-image: url(writing.jpg);
+    background-size: cover;
+}
+
+.box5 {
+    height: 80px;
+    width: 80px;
+    margin-top: 40px;
+    border-radius: 20px;
+    background-image: url(retro.jpg);
+    background-size: cover;
+}
+
+.box6 {
+    height: 80px;
+    width: 80px;
+    margin-bottom: 40px;
+    border-radius: 20px;
+    background-image: url(jordan.jpg);
+    background-size: cover;
+}
+
+.contact-page {
+    height: 300px;
+    width: 1230px;
+    background-color: rgba(3, 3, 38, 0.877);
+    color: white;
+}
+
+#con {
+    display: flex;
+    align-items: center;
+    padding: 50px 0px 0px 150px;
+    text-transform: capitalize;
+   
+}
+
+.inform {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+
+.form1 {
+    height: 60px;
+    width: 200px;
+
+}
+
+.form2 {
+    height: 60px;
+    width: 230px;
+    margin-right: 40px;
+
+}
+button{
+    height: 50px;
+    width: 150px;
+    color: white;
+    background-color: rgba(3, 3, 38, 0.877);
+}
+.blocks{
+    height: 80px;
+    width: 1230px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.line2 a{
+    margin: 30px;
+    font-weight: bolder;
+}
